@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run D:\ML_2\.venv\app.py
